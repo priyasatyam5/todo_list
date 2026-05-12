@@ -13,13 +13,13 @@ A simple To-Do List web app built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## How to Run
-1.Copy the repository link from GitHub
-2.Open terminal or command prompt
-3.Clone the repository:
+- Copy the repository link from GitHub
+- Open terminal or command prompt
+- Clone the repository:
 git clone https://github.com/your-username/todo-list-app.git
-4.Move into the project folder:
+- Move into the project folder:
 cd todo-list-app
-5.Run the project
+- Run the project
 
 
 ##Future improvements
@@ -30,3 +30,5 @@ cd todo-list-app
 
 ## Author
 Priya Satyam
+
+⭐ Give it a star on github if you like the project..!!
