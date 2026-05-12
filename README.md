@@ -21,11 +21,12 @@ git clone https://github.com/your-username/todo-list-app.git
 cd todo-list-app
 5.Run the project
 
-## Author
-Priya Satyam
 
 ##Future improvements
 . Add task completion feature
 . Save tasks using local storage
 . Edit existing tasks
 . Dark mode UI
+
+## Author
+Priya Satyam
