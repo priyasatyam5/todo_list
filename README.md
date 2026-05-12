@@ -23,10 +23,10 @@ cd todo-list-app
 
 
 ##Future improvements
-. Add task completion feature
-. Save tasks using local storage
-. Edit existing tasks
-. Dark mode UI
+- Add task completion feature
+- Save tasks using local storage
+- Edit existing tasks
+- Dark mode UI
 
 ## Author
 Priya Satyam
